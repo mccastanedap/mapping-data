@@ -7,7 +7,7 @@ This repository is part of the Coursera course: [Python, Bash and SQL Essentials
 2. Design scripts to connect and query a SQL database using Python
 3. Use a scraping tool to extract data from the web
 4. Setup a provisioned Python project environment
-
+5. We generate a file using pandas that filters red and white type of wines from Napa region with a score bigger than 90
 ## Exercise
 For this exercise, you will be using data from the [sample_data/](/../../tree/main/sample_data) and the [exercise.ipynb](/../../tree/main/exercise.ipynb) notebook. The notebook contains pre-written code that you can use to complete the exercise. Please refer to the Coursera instructions for details on how to complete this exercise.
 
